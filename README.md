@@ -1,5 +1,5 @@
 # pech
-<b>PECH, a Xunán Kab story.</b><br><br>
+<b>Aulify BlackHole, mathematical educational video game.</b><br><br>
 "PECH, a Xunán Kab story" is a video game developed in Python pygame for helping children to improve readiness skills. Pech is the name of our protagonist bee and the title of our video game. Its history is based on a real event, an event that happened in Mexico in 2011. Without a doubt, the event that will be presented below represents the ability of different peoples to defend and promote environmental preservation, as well as the right of all individuals to fully develop in a healthy and safe environment.
 
 Leydy Pech is an indigenous Mayan woman who is a beekeeper, lover, and caretaker of bees, particularly the endangered native species, Xunán Kab. She is a representative leader of her community in favor of the defense and representation of the Mayan people. In 2020, she was awarded the Goldman Environmental Prize for her work against the cultivation of transgenic soybeans in the Yucatan Peninsula, Mexico.
